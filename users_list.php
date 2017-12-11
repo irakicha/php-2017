@@ -8,5 +8,6 @@ Count:2
 Count:3
 1. Gritcenko Kirill
 2. Ashykhmin Stas
-3.Pechenin Maxim
+3. Pechenin Maxim
+4. Pakharenko Evgeny
 >>>>>>> bff431f600b48b8bcefd18c56b0f24bb548cfa63
